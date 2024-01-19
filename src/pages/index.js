@@ -1,5 +1,3 @@
-import { CaretDown, CaretLeft, DiscordLogo } from "@phosphor-icons/react";
-import { Paper } from "../components/Paper";
 import { ClosedFolder } from "../components/ClosedFolder";
 import Head from "next/head";
 import Link from "next/link";
